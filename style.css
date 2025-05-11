@@ -1,0 +1,25 @@
+body {
+    background-color: black;;
+}
+
+.container img {
+    width: 100%;
+    height: auto;
+    border: 5px solid white;
+}
+
+.container h1 {
+    color: white;
+    text-transform: uppercase;
+}
+
+.container p {
+    color: white;
+}
+
+.container {
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+}
